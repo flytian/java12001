@@ -9,5 +9,6 @@ public class Test {
          System.out.println("输出克隆对象的信息：");
          Login login2 = login1.clone();
          System.out.println(login2);
+
     }
 }
